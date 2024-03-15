@@ -6,9 +6,16 @@
           "da-bubble-6e91a"
         ]
       }
+    },
+    "dabubblesingle": {
+      "hosting": {
+        "da-bubble": [
+          "dabubblesingle"
+        ]
+      }
     }
   },
   "projects": {
-    "default": "da-bubble-6e91a"
+    "default": "dabubblesingle"
   }
 }
